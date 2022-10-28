@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/page-aschadinhos/static/css/main.073c9b0a.css",
+    "main.js": "/page-aschadinhos/static/js/main.276e6080.js",
+    "static/js/787.633b4561.chunk.js": "/page-aschadinhos/static/js/787.633b4561.chunk.js",
+    "static/media/logo.svg": "/page-aschadinhos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/page-aschadinhos/index.html",
+    "main.073c9b0a.css.map": "/page-aschadinhos/static/css/main.073c9b0a.css.map",
+    "main.276e6080.js.map": "/page-aschadinhos/static/js/main.276e6080.js.map",
+    "787.633b4561.chunk.js.map": "/page-aschadinhos/static/js/787.633b4561.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.276e6080.js"
+  ]
+}
