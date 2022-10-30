@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/page-aschadinhos/static/css/main.ae2961bb.css",
-    "main.js": "/page-aschadinhos/static/js/main.af26ee86.js",
+    "main.css": "/page-aschadinhos/static/css/main.b6abd960.css",
+    "main.js": "/page-aschadinhos/static/js/main.7d17ac1a.js",
     "static/js/787.633b4561.chunk.js": "/page-aschadinhos/static/js/787.633b4561.chunk.js",
-    "static/media/banner-1.png": "/page-aschadinhos/static/media/banner-1.dd6544c9ca6cce349f60.png",
+    "static/media/1.png": "/page-aschadinhos/static/media/1.1034ef10e68f6ae3964e.png",
+    "static/media/3.png": "/page-aschadinhos/static/media/3.b6086fe701eb5b47b88c.png",
+    "static/media/2.png": "/page-aschadinhos/static/media/2.9fd54b1265859de5959f.png",
+    "static/media/aschadinhos.svg": "/page-aschadinhos/static/media/aschadinhos.9945cf255b8b990f44247dcea4f40c15.svg",
     "index.html": "/page-aschadinhos/index.html",
-    "main.ae2961bb.css.map": "/page-aschadinhos/static/css/main.ae2961bb.css.map",
-    "main.af26ee86.js.map": "/page-aschadinhos/static/js/main.af26ee86.js.map",
+    "main.b6abd960.css.map": "/page-aschadinhos/static/css/main.b6abd960.css.map",
+    "main.7d17ac1a.js.map": "/page-aschadinhos/static/js/main.7d17ac1a.js.map",
     "787.633b4561.chunk.js.map": "/page-aschadinhos/static/js/787.633b4561.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae2961bb.css",
-    "static/js/main.af26ee86.js"
+    "static/css/main.b6abd960.css",
+    "static/js/main.7d17ac1a.js"
   ]
 }
